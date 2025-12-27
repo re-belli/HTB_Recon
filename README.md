@@ -5,6 +5,7 @@
 
 ## Guides
 https://web.archive.org/web/20221126165225/https://scund00r.com/all/oscp/2018/02/25/passing-oscp.html#enumeration
+
 https://paper.bobylive.com/Security/The_Red_Team_Guide_by_Peerlyst_community.pdf
 - [Cheatsheet](#cheatsheet)  
 
